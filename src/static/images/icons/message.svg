@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="ic_message" transform="translate(-894 -722)">
+    <rect id="Rectangle_4188" data-name="Rectangle 4188" width="22" height="22" rx="1" transform="translate(894 722)" fill="#18a098"/>
+    <g id="Group_10342" data-name="Group 10342" transform="translate(-0.72 -0.485)">
+      <path id="Union_50_-_Outline" data-name="Union 50 - Outline" d="M6.809,676.3l.488-1.112h7.173a.459.459,0,0,0,.425-.485v-7.763a.459.459,0,0,0-.425-.485H1.7a.459.459,0,0,0-.425.485V674.7a.459.459,0,0,0,.425.485H6.322l.488,1.112m0,2.055a.836.836,0,0,1-.761-.537l-.515-1.176H1.7A1.833,1.833,0,0,1,0,674.7v-7.763A1.833,1.833,0,0,1,1.7,665H14.469a1.833,1.833,0,0,1,1.7,1.941V674.7a1.833,1.833,0,0,1-1.7,1.941H8.086l-.515,1.176A.836.836,0,0,1,6.809,678.356Z" transform="translate(897.72 61.485)" fill="#fff"/>
+      <path id="Line_15" data-name="Line 15" d="M5.434.706H0V-.75H5.434Z" transform="translate(900.996 733.914)" fill="#fff"/>
+      <path id="Line_15-2" data-name="Line 15" d="M9.8.706H0V-.75H9.8Z" transform="translate(900.996 730.996)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

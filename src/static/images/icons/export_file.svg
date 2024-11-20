@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="ic_export" transform="translate(-127 -653)">
+    <rect id="Rectangle_6886" data-name="Rectangle 6886" width="16" height="16" transform="translate(127 653)" fill="none" opacity="0.479"/>
+    <g id="Group_21161" data-name="Group 21161" transform="translate(-6291.826 441.079)">
+      <path id="Path_39457" data-name="Path 39457" d="M6433.826,488.415h-14a1,1,0,0,1-1-1v-3.872a1,1,0,1,1,2,0v2.872h12v-2.872a1,1,0,1,1,2,0v3.872A1,1,0,0,1,6433.826,488.415Z" transform="translate(0 -260.494)" fill="#fff"/>
+      <g id="Group_21069" data-name="Group 21069" transform="translate(6423.463 213.435)">
+        <path id="Path_39458" data-name="Path 39458" d="M6616.5,224.049a1,1,0,0,1-1-1v-9.614a1,1,0,1,1,2,0v7.2l1.657-1.657a1,1,0,1,1,1.414,1.414l-3.364,3.364A1,1,0,0,1,6616.5,224.049Z" transform="translate(-6613.134 -213.435)" fill="#fff"/>
+        <path id="Line_404" data-name="Line 404" d="M3.364,4.364a1,1,0,0,1-.707-.293L-.707.707a1,1,0,0,1,0-1.414,1,1,0,0,1,1.414,0L4.071,2.657a1,1,0,0,1-.707,1.707Z" transform="translate(0 6.25)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

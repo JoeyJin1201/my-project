@@ -1,0 +1,11 @@
+{
+  "COMMON": {
+    "sign_in": "Log in"
+  },
+  "GENERAL": {
+    "school": "School:"
+  },
+  "API_ERROR": {
+    "E10004": "Login fail. Please contact system administrator (Error code: 10004)"
+  }
+}

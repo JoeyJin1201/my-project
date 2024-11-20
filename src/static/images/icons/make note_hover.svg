@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic_make_note_hover" data-name="ic_make note_hover" transform="translate(-702 -668)">
+    <rect id="Rectangle_4857" data-name="Rectangle 4857" width="24" height="24" transform="translate(702 668)" fill="none" opacity="0.148"/>
+    <g id="ic_make_note_hover-2" data-name="ic_make note_hover" transform="translate(-522.199 433.131)">
+      <path id="Union_50_-_Outline" data-name="Union 50 - Outline" d="M8.759,679.536l.627-1.431h9.226a.59.59,0,0,0,.547-.624V667.5a.59.59,0,0,0-.547-.624H2.189a.59.59,0,0,0-.547.624v9.986a.59.59,0,0,0,.547.624H8.131l.627,1.431m0,2.644a1.076,1.076,0,0,1-.979-.69l-.663-1.512H2.189A2.358,2.358,0,0,1,0,677.482V667.5A2.358,2.358,0,0,1,2.189,665H18.612a2.358,2.358,0,0,1,2.189,2.5v9.986a2.358,2.358,0,0,1-2.189,2.5H10.4l-.663,1.512A1.076,1.076,0,0,1,8.759,682.18Z" transform="translate(1226.199 -426.131)" fill="#5d5d5d"/>
+      <path id="Line_15" data-name="Line 15" d="M6.99,1.122H0V-.75H6.99Z" transform="translate(1230.295 248.211)" fill="#5d5d5d"/>
+      <path id="Line_15-2" data-name="Line 15" d="M12.608,1.122H0V-.75H12.608Z" transform="translate(1230.295 244.457)" fill="#5d5d5d"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="ic_email" transform="translate(-71 -725)">
+    <rect id="Rectangle_6118" data-name="Rectangle 6118" width="16" height="16" transform="translate(71 725)" fill="none" opacity="0.225"/>
+    <g id="Group_16192" data-name="Group 16192" transform="translate(0.622)">
+      <path id="Path_15876" data-name="Path 15876" d="M7.406,5.779l5.8-5.257A1.886,1.886,0,0,0,11.932,0H3.083a1.89,1.89,0,0,0-1.29.532Z" transform="translate(70.928 727.636)"/>
+      <path id="Path_15877" data-name="Path 15877" d="M6.329,7.87.319,2.314A2.354,2.354,0,0,0,0,3.5V9.256a2.127,2.127,0,0,0,2.011,2.215H10.86a2.127,2.127,0,0,0,2.011-2.215V3.5a2.355,2.355,0,0,0-.324-1.2Z" transform="translate(72 726.354)"/>
+    </g>
+  </g>
+</svg>

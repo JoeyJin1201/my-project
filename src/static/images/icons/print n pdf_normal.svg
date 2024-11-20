@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic_print_n_pdf_normal" data-name="ic_print n pdf_normal" transform="translate(-750 -624)">
+    <rect id="Rectangle_4858" data-name="Rectangle 4858" width="24" height="24" transform="translate(750 624)" fill="none" opacity="0.148"/>
+    <path id="printer-outline" d="M19,8a3,3,0,0,1,3,3v6H18v4H6V17H2V11A3,3,0,0,1,5,8H6V3H18V8h1M8,5V8h8V5H8m8,14V15H8v4h8m2-4h2V11a1,1,0,0,0-1-1H5a1,1,0,0,0-1,1v4H6V13H18v2m1-3.5a1,1,0,1,1-1-1A1,1,0,0,1,19,11.5Z" transform="translate(750.443 624)" fill="#393939"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="ic_doc_normal" transform="translate(-338 -151)">
+    <rect id="Rectangle_6623" data-name="Rectangle 6623" width="20" height="20" transform="translate(338 151)" fill="none" opacity="0.241"/>
+    <g id="Group_11025" data-name="Group 11025" transform="translate(-732 -219)">
+      <g id="Rectangle_6363" data-name="Rectangle 6363" transform="translate(1073 372)" fill="none" stroke="#18a098" stroke-width="1.7">
+        <rect width="14" height="16" rx="2" stroke="none"/>
+        <rect x="0.85" y="0.85" width="12.3" height="14.3" rx="1.15" fill="none"/>
+      </g>
+      <line id="Line_359" data-name="Line 359" x2="5" transform="translate(1077.5 377)" fill="none" stroke="#18a098" stroke-linecap="round" stroke-width="1.7"/>
+      <line id="Line_360" data-name="Line 360" x2="5" transform="translate(1077.5 380)" fill="none" stroke="#18a098" stroke-linecap="round" stroke-width="1.7"/>
+      <line id="Line_361" data-name="Line 361" x2="5" transform="translate(1077.5 383)" fill="none" stroke="#18a098" stroke-linecap="round" stroke-width="1.7"/>
+    </g>
+  </g>
+</svg>

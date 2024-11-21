@@ -1,23 +1,38 @@
-# 使用官方 Node.js 映像作為基礎
-FROM node:lts
+# Stage 1: Build the application using Node.js
+FROM node:lts AS build
 
-# 設定工作目錄
+# Set working directory
 WORKDIR /app
 
-# 複製 package.json 和 yarn.lock 進入容器
+# Copy package.json and yarn.lock
 COPY package.json yarn.lock ./
 
-# 安裝依賴
+# Install dependencies
 RUN yarn install --frozen-lockfile
 
-# 複製專案文件
+# Copy project files
 COPY . .
 
-# 編譯 TypeScript (如果需要)
+# Build the project (e.g., React, Angular, etc.)
 RUN yarn build
 
-# 暴露應用程式埠
-EXPOSE 3000
+# Stage 2: Serve the built files using Nginx
+FROM nginx:alpine
 
-# 啟動應用程式
-CMD ["yarn", "start"]
+# Set working directory
+WORKDIR /usr/share/nginx/html
+
+# Remove default Nginx static files
+RUN rm -rf ./*
+
+# Copy the built files from the previous stage
+COPY --from=build /app/dist/ .
+
+# Copy custom Nginx configuration
+COPY nginx.conf /etc/nginx/conf.d/default.conf
+
+# Expose port 8080 for Nginx
+EXPOSE 8080
+
+# Start Nginx
+CMD ["nginx", "-g", "daemon off;"]

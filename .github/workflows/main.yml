@@ -39,7 +39,7 @@ jobs:
       # Step 5: 推送 Docker 映像到 Container Registry
       - name: Push Docker image to Container Registry
         run: |
-          gcloud auth login
+          gcloud auth list
           docker push gcr.io/${{ secrets.GCP_PROJECT_ID }}/my-project:latest
 
       # Step 6: 部署至 Cloud Run

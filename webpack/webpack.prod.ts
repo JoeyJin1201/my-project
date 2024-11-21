@@ -9,6 +9,10 @@ const prodConfig: Configuration = {
     filename: '[name].[contenthash].js',
     chunkFilename: '[name].[chunkhash].js',
   },
+  devServer: {
+    allowedHosts: 'all',
+    host: '0.0.0.0',
+  },
 };
 
 const config = merge(baseConfig, prodConfig);

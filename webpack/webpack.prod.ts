@@ -10,8 +10,10 @@ const prodConfig: Configuration = {
     chunkFilename: '[name].[chunkhash].js',
   },
   devServer: {
-    allowedHosts: 'all',
+    compress: true,
+    allowedHosts: ['all'],
     host: '0.0.0.0',
+    port: 3000
   },
 };
 

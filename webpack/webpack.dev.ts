@@ -13,6 +13,7 @@ const devConfig: Configuration | DevServerConfiguration = {
     new ReactRefreshWebpackPlugin(),
   ],
   devServer: {
+    host: '0.0.0.0',
     port: 8080,
     headers: {
       'Access-Control-Allow-Origin': '*',

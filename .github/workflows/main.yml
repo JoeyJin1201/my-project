@@ -5,6 +5,10 @@ on:
     branches:
       - main # 僅在推送到 main 分支時執行
 
+permissions:
+  id-token: write
+  contents: read
+
 jobs:
   deploy:
     runs-on: ubuntu-latest

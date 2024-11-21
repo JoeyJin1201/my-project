@@ -63,6 +63,12 @@ const config: Configuration = {
       },
     ],
   },
+  stats: {
+    errorDetails: true,
+  },
+  optimization: {
+    concatenateModules: false,
+  },
 };
 
 export default config;
